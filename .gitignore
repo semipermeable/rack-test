@@ -3,4 +3,4 @@ doc
 coverage
 VERSION
 *.rbc
-.bundle
+.bundle.tddium*
