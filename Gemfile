@@ -4,3 +4,5 @@ gem 'rspec'
 gem "rack"
 gem "sinatra"
 gem 'rake'
+
+gem "codeclimate-test-reporter", group: :test, require: nil, github: "codeclimate/ruby-test-reporter", branch: "tddium"
