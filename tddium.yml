@@ -1,5 +1,7 @@
 :tddium:
   :environment:
     CODECLIMATE_REPO_TOKEN: 3672e9257cf95d03971177af02c0da065f4a8d58104f3d80ad4d3130a2a0441e
-  :coverage: true
+  :test_pattern: ""
+  :tests:
+    - bundle exec rake spec
 
